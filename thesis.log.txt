@@ -1,0 +1,1596 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Debian) (preloaded format=pdflatex 2015.8.17)  26 MAY 2016 11:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count101
+\ST@wd=\dimen114
+\ST@rightskip=\skip46
+\ST@leftskip=\skip47
+\ST@parfillskip=\skip48
+\ST@pageleft=\dimen115
+\ST@headht=\dimen116
+\ST@tailht=\dimen117
+\ST@pagesofar=\dimen118
+\ST@pboxht=\dimen119
+\ST@lineht=\dimen120
+\ST@stretchht=\dimen121
+\ST@prevht=\dimen122
+\ST@toadd=\dimen123
+\ST@dimen=\dimen124
+\ST@pbox=\box28
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tabto-ltx/tabto.sty
+Package: tabto 2013/03/25  v 1.3  Another tabbing mechanism
+\CurrentLineWidth=\dimen125
+)
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count102
+\c@@ppsavesec=\count103
+\c@@ppsaveapp=\count104
+) (./thesis.aux)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen126
+\scratchbox=\box29
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen127
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 25.
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+]
+LaTeX Font Info:    Try loading font information for U+msa on input line 62.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 62.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (56.62457pt too wide) in paragraph at lines 58--92
+|    [] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 93--96
+[]
+ []
+
+[1] [2] [3
+
+] [4
+
+] (./thesis.toc [5] [6])
+\tf@toc=\write3
+\openout3 = `thesis.toc'.
+
+ [7] [8
+
+] (./thesis.lof [9]
+Overfull \hbox (1.6849pt too wide) in paragraph at lines 30--30
+ [][] []\OT1/cmr/m/n/12 Distribution of Es-ti-mates for Case 1 Ob-ser-va-tion F
+or-mat: Non- 
+ []
+
+
+Overfull \hbox (1.6849pt too wide) in paragraph at lines 32--32
+ [][] []\OT1/cmr/m/n/12 Distribution of Es-ti-mates for Case 2 Ob-ser-va-tion F
+or-mat: Non- 
+ []
+
+
+Overfull \hbox (1.6849pt too wide) in paragraph at lines 34--34
+ [][] []\OT1/cmr/m/n/12 Distribution of Es-ti-mates for Case 3 Ob-ser-va-tion F
+or-mat: Non- 
+ []
+
+[10] [11])
+\tf@lof=\write4
+\openout4 = `thesis.lof'.
+
+ [12] (./thesis.lot [13
+
+])
+\tf@lot=\write5
+\openout5 = `thesis.lot'.
+
+ [14] [15] [16
+
+]
+Chapter 1.
+<datarates.png, id=70, 586.8324pt x 442.2924pt>
+File: datarates.png Graphic file (type png)
+ <use datarates.png>
+Package pdftex.def Info: datarates.png used on input line 148.
+(pdftex.def)             Requested size: 352.10216pt x 265.37749pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./datarates.png>] [3] [4] <circles.png, id=87, 582.175pt x 278.03876pt>
+File: circles.png Graphic file (type png)
+
+<use circles.png>
+Package pdftex.def Info: circles.png used on input line 169.
+(pdftex.def)             Requested size: 203.7643pt x 97.31502pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5]
+Overfull \hbox (14.95584pt too wide) in paragraph at lines 173--173
+[]\OT1/cmr/bx/n/17.28 Research on Extra-Terrestrial Sur-face Nav-
+ []
+
+<blocks.png, id=91, 1170.3725pt x 357.335pt>
+File: blocks.png Graphic file (type png)
+ <use blocks.png>
+Package pdftex.def Info: blocks.png used on input line 177.
+(pdftex.def)             Requested size: 409.6365pt x 125.06912pt.
+
+Overfull \hbox (19.6365pt too wide) in paragraph at lines 177--178
+ [][] 
+ []
+
+[6 <./circles.png> <./blocks.png>]
+Overfull \hbox (5.83617pt too wide) in paragraph at lines 183--184
+\OT1/cmr/m/n/12 differential-drive mo-bil-ity so-lu-tion with the same plant mo
+del as the Navswarm
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+[8] [9] [10
+
+]
+Chapter 2.
+
+Overfull \hbox (20.8298pt too wide) in paragraph at lines 204--204
+[]\OT1/cmr/bx/n/17.28 Attitude Ma-trix For-mu-lated Method (Com-
+ []
+
+[11] <inertial.png, id=111, 637.38126pt x 441.65pt>
+File: inertial.png Graphic file (type png)
+ <use inertial.png>
+Package pdftex.def Info: inertial.png used on input line 211.
+(pdftex.def)             Requested size: 223.08678pt x 154.5798pt.
+
+<local.png, id=112, 635.37375pt x 472.76625pt>
+File: local.png Graphic file (type png)
+ <use local.png>
+Package pdftex.def Info: local.png used on input line 218.
+(pdftex.def)             Requested size: 222.38414pt x 165.47066pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 226.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 226.
+ [12 <./inertial.png> <./local.png>] [13]
+Overfull \hbox (6.35513pt too wide) detected at line 284
+\OML/cmm/m/it/12 A[]A[] \OT1/cmr/m/n/12 = [] []
+ []
+
+
+Overfull \hbox (19.47423pt too wide) detected at line 292
+\OML/cmm/m/it/8 A[]A[] \OT1/cmr/m/n/8 = []
+ []
+
+[14]
+Overfull \hbox (41.62341pt too wide) detected at line 328
+\OT1/cmr/m/n/10.95 [\OML/cmm/m/it/10.95 H\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.9
+5 ^^O\OT1/cmr/m/n/10.95 )][][\OML/cmm/m/it/10.95 U\OT1/cmr/m/n/10.95 ][][\OML/c
+mm/m/it/10.95 LL\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^U; ^^^\OT1/cmr/m/n/10
+.95 )][] = [^^H] = [^^@][][\OML/cmm/m/it/10.95 M[]\OT1/cmr/m/n/10.95 ][]([
+][][^^A][][\OML/cmm/m/it/10.95 M[]\OT1/cmr/m/n/10.95 ][])[]
+ []
+
+[15] [16] [17] [18]
+Overfull \hbox (32.55113pt too wide) detected at line 467
+\OT1/cmr/m/n/10.95 ^^@[] = []
+ []
+
+[19] <phone.png, id=147, 588.1975pt x 552.0625pt>
+File: phone.png Graphic file (type png)
+ <use phone.png>
+Package pdftex.def Info: phone.png used on input line 481.
+(pdftex.def)             Requested size: 227.62204pt x 213.63559pt.
+ [20]
+Overfull \hbox (72.02753pt too wide) detected at line 532
+\OT1/cmr/m/n/10.95 = [] []
+ []
+
+[21 <./phone.png>] <cones.png, id=154, 465.74pt x 374.39874pt>
+File: cones.png Graphic file (type png)
+ <use cones.png>
+Package pdftex.def Info: cones.png used on input line 570.
+(pdftex.def)             Requested size: 186.2927pt x 149.75684pt.
+
+[22 <./cones.png>] [23] <zenithFail.png, id=161, 586.8324pt x 442.2924pt>
+File: zenithFail.png Graphic file (type png)
+
+<use zenithFail.png>
+Package pdftex.def Info: zenithFail.png used on input line 652.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+ <altitude.png, id=162, 524.96124pt x 387.4475pt>
+File: altitude.png Graphic file (type png)
+
+<use altitude.png>
+Package pdftex.def Info: altitude.png used on input line 659.
+(pdftex.def)             Requested size: 154.20538pt x 113.81102pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 649--664
+
+ []
+
+[24]
+Overfull \hbox (36.81125pt too wide) in paragraph at lines 665--665
+[]\OT1/cmr/bx/n/14.4 Miscellaneous Cor-rec-tions to At-ti-tude Ma-trix Method 
+ []
+
+[25 <./zenithFail.png> <./altitude.png>]
+<snells.png, id=171, 491.8375pt x 399.4925pt>
+File: snells.png Graphic file (type png)
+ <use snells.png>
+Package pdftex.def Info: snells.png used on input line 680.
+(pdftex.def)             Requested size: 196.7315pt x 159.79416pt.
+
+<snellGraph.png, id=172, 885.3075pt x 670.505pt>
+File: snellGraph.png Graphic file (type png)
+ <use snellGraph.png>
+Package pdftex.def Info: snellGraph.png used on input line 687.
+(pdftex.def)             Requested size: 227.62204pt x 172.39351pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26 <./snells.png>] <NP.png, id=176, 170.6375pt x 212.795pt>
+File: NP.png Graphic file (type png)
+ <use NP.png>
+Package pdftex.def Info: NP.png used on input line 695.
+(pdftex.def)             Requested size: 85.31853pt x 106.39723pt.
+
+[27 <./snellGraph.png> <./NP.png>]
+<diagram.png, id=181, 645.41125pt x 185.69376pt>
+File: diagram.png Graphic file (type png)
+ <use diagram.png>
+Package pdftex.def Info: diagram.png used on input line 736.
+(pdftex.def)             Requested size: 341.43306pt x 98.23303pt.
+ [28]
+<im60.png, id=185, 1732.4725pt x 784.9325pt>
+File: im60.png Graphic file (type png)
+ <use im60.png>
+Package pdftex.def Info: im60.png used on input line 743.
+(pdftex.def)             Requested size: 341.43306pt x 154.68411pt.
+
+<im60a.png, id=186, 1687.30376pt x 864.22874pt>
+File: im60a.png Graphic file (type png)
+ <use im60a.png>
+Package pdftex.def Info: im60a.png used on input line 749.
+(pdftex.def)             Requested size: 341.43306pt x 174.87349pt.
+ [29 <./diagram.png> <./im60.png>]
+Overfull \hbox (40.48436pt too wide) in paragraph at lines 764--767
+\OT1/cmr/m/n/10.95 In equa-tion (2.59[]), S is de-fined as $\OML/cmm/m/it/10.95
+ S \OT1/cmr/m/n/10.95 = [](\OML/cmm/m/it/10.95 Dec\OT1/cmr/m/n/10.95 )$ and C i
+s de-fined as $\OML/cmm/m/it/10.95 C \OT1/cmr/m/n/10.95 = [](\OML/cmm/m/it/10.9
+5 Dec\OT1/cmr/m/n/10.95 ) [](\OML/cmm/m/it/10.95 LHA\OT1/cmr/m/n/10.95 )$.
+ []
+
+[30 <./im60a.png>] <pdeltah.png, id=193, 524.96124pt x 330.23375pt>
+File: pdeltah.png Graphic file (type png)
+
+<use pdeltah.png>
+Package pdftex.def Info: pdeltah.png used on input line 787.
+(pdftex.def)             Requested size: 341.43306pt x 214.79047pt.
+ [31 <./pdeltah.png>]
+<nsrBlocks.png, id=198, 1236.62pt x 575.14874pt>
+File: nsrBlocks.png Graphic file (type png)
+ <use nsrBlocks.png>
+Package pdftex.def Info: nsrBlocks.png used on input line 848.
+(pdftex.def)             Requested size: 432.82349pt x 201.30507pt.
+
+Overfull \hbox (42.82349pt too wide) in paragraph at lines 848--849
+ [][] 
+ []
+
+[32] [33 <./nsrBlocks.png>] [34
+
+]
+Chapter 3.
+[35] <convergence.png, id=212, 703.62875pt x 529.98pt>
+File: convergence.png Graphic file (type png)
+ <use convergence.png>
+Package pdftex.def Info: convergence.png used on input line 906.
+(pdftex.def)             Requested size: 302.20015pt x 227.62204pt.
+
+[36] <3s3t_z_z.png, id=216, 586.8324pt x 442.2924pt>
+File: 3s3t_z_z.png Graphic file (type png)
+ <use 3s3t_z_z.png>
+Package pdftex.def Info: 3s3t_z_z.png used on input line 929.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+
+<3s3t_z_z_map.png, id=217, 586.8324pt x 442.2924pt>
+File: 3s3t_z_z_map.png Graphic file (type png)
+ <use 3s3t_z_z_map.png>
+Package pdftex.def Info: 3s3t_z_z_map.png used on input line 935.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+
+Underfull \vbox (badness 6542) has occurred while \output is active []
+
+ [37 <./convergence.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[38 <./3s3t_z_z.png>] <3s1t_z_z.png, id=226, 586.8324pt x 442.2924pt>
+File: 3s1t_z_z.png Graphic file (type png)
+
+<use 3s1t_z_z.png>
+Package pdftex.def Info: 3s1t_z_z.png used on input line 945.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+ <3s1t_z_z_map.png, id=227, 586.8324pt x 442.2924pt>
+File: 3s1t_z_z_map.png Graphic file (type png)
+
+<use 3s1t_z_z_map.png>
+Package pdftex.def Info: 3s1t_z_z_map.png used on input line 951.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[39 <./3s3t_z_z_map.png>] <1s3t_z_z.png, id=232, 586.8324pt x 442.2924pt>
+File: 1s3t_z_z.png Graphic file (type png)
+
+<use 1s3t_z_z.png>
+Package pdftex.def Info: 1s3t_z_z.png used on input line 963.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+ <1s3t_z_z_map.png, id=233, 586.8324pt x 442.2924pt>
+File: 1s3t_z_z_map.png Graphic file (type png)
+
+<use 1s3t_z_z_map.png>
+Package pdftex.def Info: 1s3t_z_z_map.png used on input line 969.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+
+Overfull \vbox (15.28258pt too high) has occurred while \output is active []
+
+
+[40 <./3s1t_z_z.png> <./3s1t_z_z_map.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[41 <./1s3t_z_z.png>] <uniHist.png, id=243, 586.8324pt x 442.2924pt>
+File: uniHist.png Graphic file (type png)
+
+<use uniHist.png>
+Package pdftex.def Info: uniHist.png used on input line 984.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[42 <./1s3t_z_z_map.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43 <./uniHist.png>] <3s3t_case1.png, id=253, 586.8324pt x 442.2924pt>
+File: 3s3t_case1.png Graphic file (type png)
+
+<use 3s3t_case1.png>
+Package pdftex.def Info: 3s3t_case1.png used on input line 1042.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<3s3t_case2.png, id=254, 586.8324pt x 442.2924pt>
+File: 3s3t_case2.png Graphic file (type png)
+ <use 3s3t_case2.png>
+Package pdftex.def Info: 3s3t_case2.png used on input line 1048.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[44] [45 <./3s3t_case1.png> <./3s3t_case2.png>]
+<3s1t_single_total_noise.png, id=263, 586.8324pt x 442.2924pt>
+File: 3s1t_single_total_noise.png Graphic file (type png)
+
+<use 3s1t_single_total_noise.png>
+Package pdftex.def Info: 3s1t_single_total_noise.png used on input line 1063.
+(pdftex.def)             Requested size: 377.51454pt x 284.52756pt.
+
+<3s1t_single_case2_noise.png, id=264, 586.8324pt x 442.2924pt>
+File: 3s1t_single_case2_noise.png Graphic file (type png)
+
+<use 3s1t_single_case2_noise.png>
+Package pdftex.def Info: 3s1t_single_case2_noise.png used on input line 1070.
+(pdftex.def)             Requested size: 377.51454pt x 284.52756pt.
+ [46
+
+] [47 <./3s1t_single_total_noise.png>]
+[48 <./3s1t_single_case2_noise.png>]
+<1s3t_case1_noise.png, id=276, 586.8324pt x 442.2924pt>
+File: 1s3t_case1_noise.png Graphic file (type png)
+
+<use 1s3t_case1_noise.png>
+Package pdftex.def Info: 1s3t_case1_noise.png used on input line 1079.
+(pdftex.def)             Requested size: 377.51454pt x 284.52756pt.
+
+<1s3t_case2_noise.png, id=277, 586.8324pt x 442.2924pt>
+File: 1s3t_case2_noise.png Graphic file (type png)
+
+<use 1s3t_case2_noise.png>
+Package pdftex.def Info: 1s3t_case2_noise.png used on input line 1086.
+(pdftex.def)             Requested size: 377.51454pt x 284.52756pt.
+ [49
+
+ <./1s3t_case1_noise.png>] [50 <./1s3t_case2_noise.png>] <biasShift.png, id=287
+, 586.8324pt x 442.2924pt>
+File: biasShift.png Graphic file (type png)
+ <use biasShift.png>
+Package pdftex.def Info: biasShift.png used on input line 1127.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+
+[51] <biasLon.png, id=291, 586.8324pt x 442.2924pt>
+File: biasLon.png Graphic file (type png)
+ <use biasLon.png>
+Package pdftex.def Info: biasLon.png used on input line 1149.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+
+<biasLat.png, id=292, 586.8324pt x 442.2924pt>
+File: biasLat.png Graphic file (type png)
+ <use biasLat.png>
+Package pdftex.def Info: biasLat.png used on input line 1156.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+ [52 <./biasShift.png>] [53 <./biasLon.png>]
+<nonUniformBias.png, id=301, 586.8324pt x 442.2924pt>
+File: nonUniformBias.png Graphic file (type png)
+ <use nonUniformBias.png>
+Package pdftex.def Info: nonUniformBias.png used on input line 1167.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+
+[54 <./biasLat.png>] [55 <./nonUniformBias.png>] [56]
+Chapter 4.
+[57
+
+] <setup.png, id=317, 1297.84875pt x 695.59875pt>
+File: setup.png Graphic file (type png)
+ <use setup.png>
+Package pdftex.def Info: setup.png used on input line 1191.
+(pdftex.def)             Requested size: 284.52756pt x 152.49088pt.
+
+<manyPitchAngles.png, id=318, 586.8324pt x 442.2924pt>
+File: manyPitchAngles.png Graphic file (type png)
+
+<use manyPitchAngles.png>
+Package pdftex.def Info: manyPitchAngles.png used on input line 1200.
+(pdftex.def)             Requested size: 284.52756pt x 214.45082pt.
+ <filterblock.png, id=319, 1256.695pt x 344.28625pt>
+File: filterblock.png Graphic file (type png)
+
+<use filterblock.png>
+Package pdftex.def Info: filterblock.png used on input line 1207.
+(pdftex.def)             Requested size: 415.42014pt x 113.81102pt.
+
+Overfull \hbox (25.42014pt too wide) in paragraph at lines 1207--1208
+ [][] 
+ []
+
+<savgolay.png, id=320, 586.8324pt x 442.2924pt>
+File: savgolay.png Graphic file (type png)
+ <use savgolay.png>
+Package pdftex.def Info: savgolay.png used on input line 1214.
+(pdftex.def)             Requested size: 284.52756pt x 214.45082pt.
+ [58]
+[59 <./setup.png> <./manyPitchAngles.png>] [60 <./filterblock.png> <./savgolay.
+png>] <firstorder0.png, id=332, 586.8324pt x 442.2924pt>
+File: firstorder0.png Graphic file (type png)
+ <use firstorder0.png>
+Package pdftex.def Info: firstorder0.png used on input line 1236.
+(pdftex.def)             Requested size: 284.52756pt x 214.45082pt.
+
+[61] [62 <./firstorder0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1258
+
+ []
+
+<map2222.png, id=341, 586.8324pt x 442.2924pt>
+File: map2222.png Graphic file (type png)
+ <use map2222.png>
+Package pdftex.def Info: map2222.png used on input line 1285.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[63] <software.png, id=345, 1244.65pt x 465.74pt>
+File: software.png Graphic file (type png)
+ <use software.png>
+Package pdftex.def Info: software.png used on input line 1296.
+(pdftex.def)             Requested size: 342.15636pt x 128.0374pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64 <./map2222.png>] <centroids.png, id=350, 715.67375pt x 476.78125pt>
+File: centroids.png Graphic file (type png)
+
+<use centroids.png>
+Package pdftex.def Info: centroids.png used on input line 1307.
+(pdftex.def)             Requested size: 284.52756pt x 189.55237pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65 <./software.png>] <pyramids.png, id=354, 846.16125pt x 565.11125pt>
+File: pyramids.png Graphic file (type png)
+
+<use pyramids.png>
+Package pdftex.def Info: pyramids.png used on input line 1315.
+(pdftex.def)             Requested size: 227.62204pt x 152.01295pt.
+ [66 <./centroids.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67 <./pyramids.png>] <smallAngle.png, id=362, 586.8324pt x 442.2924pt>
+File: smallAngle.png Graphic file (type png)
+
+<use smallAngle.png>
+Package pdftex.def Info: smallAngle.png used on input line 1335.
+(pdftex.def)             Requested size: 284.52756pt x 214.45082pt.
+ <smallAngleO.png, id=363, 586.8324pt x 442.2924pt>
+File: smallAngleO.png Graphic file (type png)
+
+<use smallAngleO.png>
+Package pdftex.def Info: smallAngleO.png used on input line 1341.
+(pdftex.def)             Requested size: 284.52756pt x 214.45082pt.
+ <trigabsrel.png, id=364, 586.8324pt x 442.2924pt>
+File: trigabsrel.png Graphic file (type png)
+
+<use trigabsrel.png>
+Package pdftex.def Info: trigabsrel.png used on input line 1348.
+(pdftex.def)             Requested size: 284.52756pt x 214.45082pt.
+ [68 <./smallAngle.png>]
+
+LaTeX Warning: Text page 69 contains only floats.
+
+[69 <./smallAngleO.png> <./trigabsrel.png>]
+<maxradius.png, id=374, 3886.52pt x 2601.72pt>
+File: maxradius.png Graphic file (type png)
+ <use maxradius.png>
+Package pdftex.def Info: maxradius.png used on input line 1356.
+(pdftex.def)             Requested size: 284.52756pt x 190.4361pt.
+ [70 <./maxradius.png (PNG copy)>] <nomods.png, id=378, 677.53125pt x 515.9275p
+t>
+File: nomods.png Graphic file (type png)
+
+<use nomods.png>
+Package pdftex.def Info: nomods.png used on input line 1379.
+(pdftex.def)             Requested size: 298.92105pt x 227.62204pt.
+ <pitched_map.png, id=379, 586.8324pt x 442.2924pt>
+File: pitched_map.png Graphic file (type png)
+
+<use pitched_map.png>
+Package pdftex.def Info: pitched_map.png used on input line 1388.
+(pdftex.def)             Requested size: 302.01163pt x 227.62204pt.
+ [71 <./nomods.png>]
+<rollmod.png, id=383, 446.66875pt x 713.66624pt>
+File: rollmod.png Graphic file (type png)
+ <use rollmod.png>
+Package pdftex.def Info: rollmod.png used on input line 1410.
+(pdftex.def)             Requested size: 142.45982pt x 227.62204pt.
+ [72 <./pitched_map.png>]
+Overfull \hbox (1.32771pt too wide) in paragraph at lines 1415--1415
+[]\OT1/cmr/bx/n/17.28 Optimization Tech-niques for Generic Cal-
+ []
+
+<singleCost.png, id=388, 449.68pt x 337.26pt>
+File: singleCost.png Graphic file (type png)
+ <use singleCost.png>
+Package pdftex.def Info: singleCost.png used on input line 1426.
+(pdftex.def)             Requested size: 303.5003pt x 227.62204pt.
+
+<sumCost.png, id=389, 449.68pt x 337.26pt>
+File: sumCost.png Graphic file (type png)
+ <use sumCost.png>
+Package pdftex.def Info: sumCost.png used on input line 1432.
+(pdftex.def)             Requested size: 303.5003pt x 227.62204pt.
+ [73 <./rollmod.png>] [74 <./singleCost.png (PNG copy)>] [75 <./sumCost.png (PN
+G copy)>]
+<optimalRectangular.png, id=400, 586.8324pt x 442.2924pt>
+File: optimalRectangular.png Graphic file (type png)
+
+<use optimalRectangular.png>
+Package pdftex.def Info: optimalRectangular.png used on input line 1463.
+(pdftex.def)             Requested size: 377.51454pt x 284.52756pt.
+ [76]
+<rectMeanEst_map.png, id=405, 586.8324pt x 442.2924pt>
+File: rectMeanEst_map.png Graphic file (type png)
+
+<use rectMeanEst_map.png>
+Package pdftex.def Info: rectMeanEst_map.png used on input line 1482.
+(pdftex.def)             Requested size: 377.51454pt x 284.52756pt.
+ [77 <./optimalRectangular.png>]
+<rectMeanParams_map.png, id=410, 586.8324pt x 442.2924pt>
+File: rectMeanParams_map.png Graphic file (type png)
+
+<use rectMeanParams_map.png>
+Package pdftex.def Info: rectMeanParams_map.png used on input line 1504.
+(pdftex.def)             Requested size: 377.51454pt x 284.52756pt.
+
+Underfull \vbox (badness 1460) has occurred while \output is active []
+
+ [78 <./rectMeanEst_map.png>] <cool.png, id=415, 677.53125pt x 261.97874pt>
+File: cool.png Graphic file (type png)
+ <use cool.png>
+Package pdftex.def Info: cool.png used on input line 1511.
+(pdftex.def)             Requested size: 441.51697pt x 170.71652pt.
+
+Overfull \hbox (51.51697pt too wide) in paragraph at lines 1511--1512
+ [][] 
+ []
+
+[79 <./rectMeanParams_map.png>] <GP.jpg, id=421, 1042.31662pt x 1042.31662pt>
+File: GP.jpg Graphic file (type jpg)
+
+<use GP.jpg>
+Package pdftex.def Info: GP.jpg used on input line 1521.
+(pdftex.def)             Requested size: 170.70247pt x 170.71652pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80 <./cool.png>] <gnomCost.png, id=425, 449.68pt x 337.26pt>
+File: gnomCost.png Graphic file (type png)
+ <use gnomCost.png>
+Package pdftex.def Info: gnomCost.png used on input line 1543.
+(pdftex.def)             Requested size: 303.5003pt x 227.62204pt.
+ [81 <./GP.jpg>] <gnomRaw_map.png, id=429, 586.8324pt x 442.2924pt>
+File: gnomRaw_map.png Graphic file (type png)
+
+<use gnomRaw_map.png>
+Package pdftex.def Info: gnomRaw_map.png used on input line 1566.
+(pdftex.def)             Requested size: 377.51454pt x 284.52756pt.
+ [82 <./gnomCost.png (PNG copy)>]
+<gnomOptimal_map.png, id=434, 586.8324pt x 442.2924pt>
+File: gnomOptimal_map.png Graphic file (type png)
+
+<use gnomOptimal_map.png>
+Package pdftex.def Info: gnomOptimal_map.png used on input line 1586.
+(pdftex.def)             Requested size: 377.51454pt x 284.52756pt.
+ [83 <./gnomRaw_map.png>]
+Underfull \vbox (badness 1642) has occurred while \output is active []
+
+ [84 <./gnomOptimal_map.png>] [85] [86
+
+]
+Chapter 5.
+<unbiasedBar.png, id=450, 449.68pt x 337.26pt>
+File: unbiasedBar.png Graphic file (type png)
+ <use unbiasedBar.png>
+Package pdftex.def Info: unbiasedBar.png used on input line 1613.
+(pdftex.def)             Requested size: 379.3754pt x 284.52756pt.
+
+<rmpBar.png, id=451, 449.68pt x 337.26pt>
+File: rmpBar.png Graphic file (type png)
+ <use rmpBar.png>
+Package pdftex.def Info: rmpBar.png used on input line 1618.
+(pdftex.def)             Requested size: 379.3754pt x 284.52756pt.
+ [87] [88 <./unbiasedBar.png (PNG copy)>] <errorCirclesFar.png, id=458, 449.68p
+t x 337.26pt>
+File: errorCirclesFar.png Graphic file (type png)
+
+<use errorCirclesFar.png>
+Package pdftex.def Info: errorCirclesFar.png used on input line 1626.
+(pdftex.def)             Requested size: 379.3754pt x 284.52756pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89 <./rmpBar.png (PNG copy)>] <errorCirclesClose.png, id=462, 449.68pt x 337.
+26pt>
+File: errorCirclesClose.png Graphic file (type png)
+
+<use errorCirclesClose.png>
+Package pdftex.def Info: errorCirclesClose.png used on input line 1633.
+(pdftex.def)             Requested size: 379.3754pt x 284.52756pt.
+ [90 <./errorCirclesFar.png (PNG copy)>] [91 <./errorCirclesClose.png (PNG copy
+)>]
+<timeVariation.png, id=470, 449.68pt x 337.26pt>
+File: timeVariation.png Graphic file (type png)
+ <use timeVariation.png>
+Package pdftex.def Info: timeVariation.png used on input line 1692.
+(pdftex.def)             Requested size: 379.3754pt x 284.52756pt.
+
+[92] [93] [94 <./timeVariation.png (PNG copy)>]
+<errorArc.png, id=480, 449.68pt x 337.26pt>
+File: errorArc.png Graphic file (type png)
+ <use errorArc.png>
+Package pdftex.def Info: errorArc.png used on input line 1712.
+(pdftex.def)             Requested size: 379.3754pt x 284.52756pt.
+ [95 <./errorArc.png (PNG copy)>] [96] [97] [98
+
+]
+Chapter 6.
+
+Underfull \vbox (badness 3271) has occurred while \output is active []
+
+ [99]
+[100] [101
+
+] [102] [103] [104] [105
+
+
+] [106]
+Appendix A.
+[107
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [108]
+Overfull \hbox (6.65945pt too wide) in paragraph at lines 2293--2293
+[]\OT1/cmtt/m/n/10.95 # to test this we're goign to use "regulus" to calculate 
+the location[] 
+ []
+
+
+Overfull \hbox (41.15158pt too wide) in paragraph at lines 2293--2293
+[]    \OT1/cmtt/m/n/10.95 # the sextant class deals with computing the Observed
+ altitude from the[] 
+ []
+
+
+Overfull \hbox (12.40814pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 # this is the value you measure from the starCame
+ra or sextant[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [109]
+Overfull \hbox (52.64896pt too wide) in paragraph at lines 2293--2293
+[]    \OT1/cmtt/m/n/10.95 # this class defines the observations that we get fro
+m the sextant or CNC[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [110]
+Overfull \hbox (35.4029pt too wide) in paragraph at lines 2293--2293
+[]    \OT1/cmtt/m/n/10.95 lf = -70.934916                  # est. long, @ fixTi
+me E+ W-, degrees[] 
+ []
+
+
+Overfull \hbox (18.15683pt too wide) in paragraph at lines 2293--2293
+[]    \OT1/cmtt/m/n/10.95 bf = 43.13376                   # est. lat @ fixTime 
+N+ S-, degrees[] 
+ []
+
+
+Overfull \hbox (12.40814pt too wide) in paragraph at lines 2293--2293
+[]    \OT1/cmtt/m/n/10.95 def __init__(self, t,  ho, sha, ghAries0, ghAries1, d
+ec, pitch=0):[] 
+ []
+
+
+Overfull \hbox (0.91077pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 # the stuff in here, we just want to exist for TH
+AT INSTANCE[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [111]
+Overfull \hbox (46.90027pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 # converts an angle from angle + minutes from the
+ almanac to decimal[] 
+ []
+
+
+Overfull \hbox (23.90552pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 # increment is used to interpolate GHA. Not requi
+red until we're[] 
+ []
+
+
+Overfull \hbox (0.91077pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 return totalDiff/3600       # need the final answ
+er in HOURS[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [112]
+Overfull \hbox (46.90027pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 # calculates the estimate of lat and long based o
+n the running track[] 
+ []
+
+
+Overfull \hbox (81.3924pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 lng = longEst + ((self.hourTea*(self.v/60)*sind(s
+elf.track))/cosd(latEst))[] 
+ []
+
+
+Overfull \hbox (0.91077pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 lat = (latEst + (self.hourTea*(self.v/60)*cosd(se
+lf.track)))[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [113]
+Overfull \hbox (41.15158pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 # calculates the intercept, which along with Z, a
+nd Hc are the most[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [114]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [115]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [116]
+Overfull \hbox (35.4029pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 inertials.write("%s,%s,%s\n"%(self.lha, self.gha,
+ self.increment))[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [117]
+Overfull \hbox (58.39764pt too wide) in paragraph at lines 2293--2293
+[]    \OT1/cmtt/m/n/10.95 [D.append(intercepts[i]*cosd(azimuth[i])) for i in ra
+nge(0, len(azimuth))][] 
+ []
+
+
+Overfull \hbox (58.39764pt too wide) in paragraph at lines 2293--2293
+[]    \OT1/cmtt/m/n/10.95 [E.append(intercepts[i]*sind(azimuth[i])) for i in ra
+nge(0, len(azimuth))][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [118]
+Overfull \hbox (58.39764pt too wide) in paragraph at lines 2293--2293
+[]    \OT1/cmtt/m/n/10.95 d = 60*m.sqrt((newLong-oldLong)**2*cosd(oldLat)**2 + 
+(newLat - oldLat)**2)[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [119]
+Overfull \hbox (12.40814pt too wide) in paragraph at lines 2293--2293
+[]            \OT1/cmtt/m/n/10.95 location = locateMe(obs, count, location[0], 
+location [1])[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [120]
+Overfull \hbox (0.91077pt too wide) in paragraph at lines 2293--2293
+[]\OT1/cmtt/m/n/10.95 # this way is OP when you want to test a part of the code
+ separately[] 
+ []
+
+
+Overfull \hbox (23.90552pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 # the monte carlo test has to start around this p
+art of the code[] 
+ []
+
+
+Overfull \hbox (64.14633pt too wide) in paragraph at lines 2293--2293
+[]                 \OT1/cmtt/m/n/10.95 #t          h0                          
+    sha           gha0[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [121]
+Overfull \hbox (58.39764pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 regulus = Observation([20, 39, 23], 27.2674 ,[207
+, 42.3], [222, 30.6],[] 
+ []
+
+
+Overfull \hbox (64.14633pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 antares = Observation([20, 45, 47], 25.8742 , [11
+2, 24.2], [222, 30.6],[] 
+ []
+
+
+Overfull \hbox (58.39764pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 kochab = Observation([21, 10, 34], 47.5309 , [137
+, 19.7], [237, 33.1],[] 
+ []
+
+
+Overfull \hbox (58.39764pt too wide) in paragraph at lines 2293--2293
+[]        \OT1/cmtt/m/n/10.95 meanBias =5.356 # total amount of diff. i need to
+ get out of my system[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [122]
+[123] [124
+
+]
+Appendix B.
+
+Overfull \hbox (18.15683pt too wide) in paragraph at lines 2592--2592
+[]\OT1/cmtt/m/n/10.95 # eliminates the need to do any kind of "circular hough t
+ransform" etc.[] 
+ []
+
+[125]
+Overfull \hbox (35.4029pt too wide) in paragraph at lines 2592--2592
+[]\OT1/cmtt/m/n/10.95 dataDir = '/home/newmy/research/exp/unh-startracker/dataS
+ets/timeVarying/'[] 
+ []
+
+
+Overfull \hbox (12.40814pt too wide) in paragraph at lines 2592--2592
+[]    \OT1/cmtt/m/n/10.95 # imgTime is an array of [hr, min, sec] in UTC from t
+he image file[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [126]
+Overfull \hbox (12.40814pt too wide) in paragraph at lines 2592--2592
+[]    \OT1/cmtt/m/n/10.95 # i think what i really want is to return a string of
+ the wcs file[] 
+ []
+
+
+Overfull \hbox (69.89502pt too wide) in paragraph at lines 2592--2592
+[]        \OT1/cmtt/m/n/10.95 # the reason we set equal c.upload to a variable 
+is because it returns a[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [127]
+Overfull \hbox (0.91077pt too wide) in paragraph at lines 2592--2592
+[]                \OT1/cmtt/m/n/10.95 # print "blah =========== %s" %type(blah[
+'jobs'][0])[] 
+ []
+
+
+Overfull \hbox (41.15158pt too wide) in paragraph at lines 2592--2592
+[]                    \OT1/cmtt/m/n/10.95 print "TYEP OF blah =========== %s" %
+type(blah['jobs'])[] 
+ []
+
+
+Overfull \hbox (23.90552pt too wide) in paragraph at lines 2592--2592
+[]         \OT1/cmtt/m/n/10.95 #   calibration = c.send_request('jobs/%s/calibr
+ation' % jobId)[] 
+ []
+
+
+Overfull \hbox (6.65945pt too wide) in paragraph at lines 2592--2592
+[]         \OT1/cmtt/m/n/10.95 #   starList = c.send_request('jobs/%s/annotatio
+ns' % jobId)[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [128]
+Overfull \hbox (58.39764pt too wide) in paragraph at lines 2592--2592
+[]    \OT1/cmtt/m/n/10.95 # this function calls astrometry with certain options
+ and puts a .wcs file[] 
+ []
+
+
+Overfull \hbox (29.6542pt too wide) in paragraph at lines 2592--2592
+[]    \OT1/cmtt/m/n/10.95 subprocess.call(['solve-field', '-p', '--overwrite', 
+'--scale-units',[] 
+ []
+
+
+Overfull \hbox (35.4029pt too wide) in paragraph at lines 2592--2592
+[]                    \OT1/cmtt/m/n/10.95 'degwidth', '--scale-low', '25', '--s
+cale-high', '35',[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [129]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [130]
+Overfull \hbox (58.39764pt too wide) in paragraph at lines 2592--2592
+[]    \OT1/cmtt/m/n/10.95 shortList = [] # make a short list of the stars we're
+ really interested in[] 
+ []
+
+
+Overfull \hbox (58.39764pt too wide) in paragraph at lines 2592--2592
+[]        \OT1/cmtt/m/n/10.95 # if the star has an alternate name its probably 
+big or bright or both[] 
+ []
+
+
+Overfull \hbox (0.91077pt too wide) in paragraph at lines 2592--2592
+[]        \OT1/cmtt/m/n/10.95 # newx and newy are no longer used in the actual 
+calculation[] 
+ []
+
+
+Overfull \hbox (92.88977pt too wide) in paragraph at lines 2592--2592
+[]        \OT1/cmtt/m/n/10.95 # i think the order we do the roll and pitch oper
+ations is kind of important[] 
+ []
+
+
+Overfull \hbox (12.40814pt too wide) in paragraph at lines 2592--2592
+[]        \OT1/cmtt/m/n/10.95 # THIS LINE IS THE RECTANGULAR TRANSLATION FOR TH
+E STAR CAMERA[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [131]
+Overfull \hbox (41.15158pt too wide) in paragraph at lines 2592--2592
+[]        \OT1/cmtt/m/n/10.95 pixDegrees*star['yOff'],pitch+naturalBias)*ST.cos
+d(roll+rollOffset)[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [132]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [133]
+Overfull \hbox (64.14633pt too wide) in paragraph at lines 2592--2592
+[]        \OT1/cmtt/m/n/10.95 observations.append(ST.Observation(t0,Ho, sha, gh
+a0, gha1, dec, pitch))[] 
+ []
+
+
+Overfull \hbox (52.64896pt too wide) in paragraph at lines 2592--2592
+[]        \OT1/cmtt/m/n/10.95 f.write('%s,%s,%s,%s,%s,%s,%s,%s,%s\n'%(x['ho'],x
+['newx'], x['newy'],[] 
+ []
+
+
+Overfull \hbox (41.15158pt too wide) in paragraph at lines 2592--2592
+[]    \OT1/cmtt/m/n/10.95 # what would go in __name __ == "__main__" so that wa
+y it can be easily[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [134]
+[135] [136
+
+]
+Appendix C.
+
+Overfull \hbox (35.4029pt too wide) in paragraph at lines 2693--2693
+[]\OT1/cmtt/m/n/10.95 % this script tries to plot the error in the intercept by
+ using the actual[] 
+ []
+
+
+Overfull \hbox (29.6542pt too wide) in paragraph at lines 2693--2693
+[]\OT1/cmtt/m/n/10.95 K = 3600/24.2; % the signs are basically opposite due to 
+the weird origin[] 
+ []
+
+[137]
+Overfull \hbox (12.40814pt too wide) in paragraph at lines 2693--2693
+[]\OT1/cmtt/m/n/10.95 % need to just do one computation but then repeat it a bu
+nch of times.[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [138]
+Overfull \hbox (87.14108pt too wide) in paragraph at lines 2693--2693
+[]        \OT1/cmtt/m/n/10.95 newy(i,j) = (-x(n)*sind(tht) + (y(n) +(pitch+pitc
+hOff(j)*K))*cosd(tht));%+;[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [139]
+[140] (./thesis.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3399 strings out of 495021
+ 45302 string characters out of 6181344
+ 105853 words of memory out of 5000000
+ 6470 multiletter control sequences out of 15000+600000
+ 19160 words of font info for 73 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 38i,11n,24p,1465b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/symbols/msbm10.pfb>
+Output written on thesis.pdf (158 pages, 14640816 bytes).
+PDF statistics:
+ 704 PDF objects out of 1000 (max. 8388607)
+ 417 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 336 words of extra memory for PDF output out of 10000 (max. 10000000)
+

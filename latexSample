@@ -1,0 +1,9 @@
+%&pdflatex
+\documentclass{article}
+\title{Cartesian closed categories and the price of eggs}
+\author{Jane Doe}
+\date{Sept 1994}
+\begin{document}
+    \maketitle
+    Hello World!
+\end{document}

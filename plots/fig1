@@ -1,0 +1,5 @@
+%trying to plot stupid figure 1
+x = [-6:1:6]
+y = [-6:1:6]
+
+f = sqrt(1-sin(x)^2 + sin(y)^2)
