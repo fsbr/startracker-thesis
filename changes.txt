@@ -6,12 +6,12 @@ Reduction".
 
 There are a few format changes that are needed before this can be approved.
 
--The date on the title and abstract should be September 2016
--Margins should be 1 inch on both the left and right. There is no need to
+DONE -The date on the title and abstract should be September 2016
+DONE -Margins should be 1 inch on both the left and right. There is no need to
 alternate.
 -Please follow the template for the committee page on pg 19 of the thesis
 manual. Please note that there are no lines and no signatures on this page.
-- The preliminary page numbers are not correct. The title page counts as page
+DONE- The preliminary page numbers are not correct. The title page counts as page
   i, and the committee page should be page ii, and so on.
 
 To submit your changes, please go to the following page:

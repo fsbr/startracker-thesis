@@ -1,5 +1,8 @@
 \documentclass[12pt,a4paper]{book}
 \usepackage[utf8]{inputenc}
+\usepackage[a4paper,bindingoffset=0.2in,%
+            left=1in,right=1in,top=1in,bottom=1in,%
+            footskip=.25in]{geometry}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
@@ -20,6 +23,7 @@
 \author{Thomas C.K. Fuller}
 \title{Experimental Celestial Navigation Prototype for Computer Vision Based Nautical Sight Reduction}
 \begin{document}
+\frontmatter
 \begin{titlepage}
 	\centering
 	{\scshape\large \textbf{EXPERIMENTAL CELESTIAL NAVIGATION PROTOTYPE FOR COMPUTER VISION BASED NAUTICAL SIGHT REDUCTION}\par}
@@ -42,10 +46,10 @@
 	\vfill
 
 % Bottom of the page
-	{\normalsize May, 2016\par}
+	{\normalsize September, 2016\par}
 \end{titlepage}
 %\maketitle
-\frontmatter
+%\frontmatter
 \begin{center}
 EXPERIMENTAL CELESTIAL NAVIGATION PROTOTYPE FOR COMPUTER VISION BASED NAUTICAL SIGHT REDUCTION
 
@@ -130,7 +134,7 @@ Lastly I'd like to thank my friend, Michael Tian, my mom, Mimi Wong and my dad, 
 EXPERIMENTAL CELESTIAL NAVIGATION PROTOTYPE FOR COMPUTER VISION BASED NAUTICAL SIGHT REDUCTION\break
 by\break
 Thomas C.K. Fuller\break
-University of New Hampshire, May 2016
+University of New Hampshire, September 2016
 \end{center}
 This thesis presents the development and analysis of an experimental platform for celestial navigation using the Directly Computed Nautical Sight Reduction Algorithm.  The goal is to obtain an estimate of latitude and longitude using an image of the stars and measurements from an IMU as an input.  Analytical simulation results indicate that the presented method is viable for navigation for three different observational formats and a wide range of camera pointing directions.  Experimental development is presented including cost function analysis for minimizing the error in the position estimate.  The results of the optimization were that an error of $0.0585^{\circ}$, approximately 3 nautical miles, was achieved.  The presented device is also compared to other established methods of celestial navigation.
 %This study presents an experimental device capable of estimating static position (latitude, longitude) using an image of the stars.  The presented star camera takes an optical light image of the stars and sensor measurements from a 3-axis IMU to determine the local orientation of the image.  The image is processed by the Astrometry.net blind astrometric calibration software to determine the names and pixel locations of three stars in the image.  These pixel locations are processed by a program that assigns the value of IMU pitch and roll to the center pixel of the image in order to create viable measurement of the altitude of the stars.  These altitude angles are fed as inputs to a software version of the Directly Computed Nautical Sight Reduction Algorithm to determine an estimate of the position.  

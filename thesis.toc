@@ -1,45 +1,45 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {section}{\numberline {1.1}Methods of Celestial Navigation}{1}
-\contentsline {section}{\numberline {1.2}Research on Extra-Terrestrial Surface Navigation}{6}
-\contentsline {section}{\numberline {1.3}Thesis Contributions}{8}
-\contentsline {section}{\numberline {1.4}Thesis Outline}{8}
-\contentsline {chapter}{\numberline {2}Celestial Navigation Algorithms}{11}
-\contentsline {section}{\numberline {2.1}Attitude Matrix Formulated Method (Compass Star Tracker)}{11}
-\contentsline {section}{\numberline {2.2}Star Tracker Matrix, $\Delta $ for Modified Attitude Matrix Method}{16}
-\contentsline {section}{\numberline {2.3}Body to Local Rotation Matrix, $\Gamma $}{17}
-\contentsline {subsection}{\numberline {2.3.1}Modified Attitude Matrix Method $\Gamma $ Matrix}{18}
-\contentsline {subsection}{\numberline {2.3.2}Attitude Matrix Method $\Gamma $}{22}
-\contentsline {subsection}{\numberline {2.3.3}Failure Conditions for Zenith Requirement Solution}{24}
-\contentsline {subsection}{\numberline {2.3.4}Miscellaneous Corrections to Attitude Matrix Method}{26}
-\contentsline {section}{\numberline {2.4}Proposed Algorithm}{28}
-\contentsline {subsection}{\numberline {2.4.1}Blind Astrometric Nautical Sight Reduction}{28}
-\contentsline {subsection}{\numberline {2.4.2}Center Pixel Method}{32}
-\contentsline {chapter}{\numberline {3}Simulations of Nautical Sight Reduction Algorithm}{35}
-\contentsline {section}{\numberline {3.1}Convergence}{36}
-\contentsline {section}{\numberline {3.2}Position Estimation}{37}
-\contentsline {section}{\numberline {3.3}Noise in Observed Altitudes}{42}
-\contentsline {section}{\numberline {3.4}Observation Bias}{51}
-\contentsline {section}{\numberline {3.5}Summary of Observational Formats}{55}
-\contentsline {chapter}{\numberline {4}Experimental Design and Verification}{57}
-\contentsline {section}{\numberline {4.1}Experimental Setup}{57}
-\contentsline {subsection}{\numberline {4.1.1}IMU Time Response Curves}{58}
-\contentsline {section}{\numberline {4.2}Simulating Experimental Noise and Uncertainty Analysis}{62}
-\contentsline {section}{\numberline {4.3}Experimental Software}{64}
-\contentsline {subsection}{\numberline {4.3.1}Blind Astrometric Calibration}{66}
-\contentsline {subsection}{\numberline {4.3.2}Small Angle Approximation}{68}
-\contentsline {section}{\numberline {4.4}Experimental Results}{71}
-\contentsline {section}{\numberline {4.5}Optimization Techniques for Generic Calibration}{73}
-\contentsline {subsection}{\numberline {4.5.1}Optimizing Time Invariant Error}{80}
-\contentsline {subsection}{\numberline {4.5.2}Summary of Results}{84}
-\contentsline {chapter}{\numberline {5}Discussion and Future Work}{87}
-\contentsline {section}{\numberline {5.1}Comparison to Established Methods}{87}
-\contentsline {section}{\numberline {5.2}Zenith Requirement}{91}
-\contentsline {section}{\numberline {5.3}Time Variation of $H_{o} - H_{c}$}{93}
-\contentsline {section}{\numberline {5.4}Use on Extraterrestrial Surfaces}{94}
-\contentsline {section}{\numberline {5.5}Future Work}{95}
-\contentsline {chapter}{\numberline {6}Conclusions}{99}
-\contentsline {chapter}{Appendices}{105}
-\contentsline {chapter}{\numberline {A}Axis Descriptions}{107}
-\contentsline {chapter}{\numberline {B}Nautical Sight Reduction Script}{109}
-\contentsline {chapter}{\numberline {C}Center Pixel Method Script}{127}
-\contentsline {chapter}{\numberline {D}Cost Function Optimization Script}{139}
+\contentsline {section}{\numberline {1.2}Research on Extra-Terrestrial Surface Navigation}{5}
+\contentsline {section}{\numberline {1.3}Thesis Contributions}{6}
+\contentsline {section}{\numberline {1.4}Thesis Outline}{7}
+\contentsline {chapter}{\numberline {2}Celestial Navigation Algorithms}{9}
+\contentsline {section}{\numberline {2.1}Attitude Matrix Formulated Method (Compass Star Tracker)}{9}
+\contentsline {section}{\numberline {2.2}Star Tracker Matrix, $\Delta $ for Modified Attitude Matrix Method}{13}
+\contentsline {section}{\numberline {2.3}Body to Local Rotation Matrix, $\Gamma $}{13}
+\contentsline {subsection}{\numberline {2.3.1}Modified Attitude Matrix Method $\Gamma $ Matrix}{14}
+\contentsline {subsection}{\numberline {2.3.2}Attitude Matrix Method $\Gamma $}{18}
+\contentsline {subsection}{\numberline {2.3.3}Failure Conditions for Zenith Requirement Solution}{19}
+\contentsline {subsection}{\numberline {2.3.4}Miscellaneous Corrections to Attitude Matrix Method}{21}
+\contentsline {section}{\numberline {2.4}Proposed Algorithm}{23}
+\contentsline {subsection}{\numberline {2.4.1}Blind Astrometric Nautical Sight Reduction}{23}
+\contentsline {subsection}{\numberline {2.4.2}Center Pixel Method}{25}
+\contentsline {chapter}{\numberline {3}Simulations of Nautical Sight Reduction Algorithm}{29}
+\contentsline {section}{\numberline {3.1}Convergence}{30}
+\contentsline {section}{\numberline {3.2}Position Estimation}{31}
+\contentsline {section}{\numberline {3.3}Noise in Observed Altitudes}{34}
+\contentsline {section}{\numberline {3.4}Observation Bias}{41}
+\contentsline {section}{\numberline {3.5}Summary of Observational Formats}{44}
+\contentsline {chapter}{\numberline {4}Experimental Design and Verification}{45}
+\contentsline {section}{\numberline {4.1}Experimental Setup}{45}
+\contentsline {subsection}{\numberline {4.1.1}IMU Time Response Curves}{46}
+\contentsline {section}{\numberline {4.2}Simulating Experimental Noise and Uncertainty Analysis}{49}
+\contentsline {section}{\numberline {4.3}Experimental Software}{51}
+\contentsline {subsection}{\numberline {4.3.1}Blind Astrometric Calibration}{52}
+\contentsline {subsection}{\numberline {4.3.2}Small Angle Approximation}{54}
+\contentsline {section}{\numberline {4.4}Experimental Results}{56}
+\contentsline {section}{\numberline {4.5}Optimization Techniques for Generic Calibration}{59}
+\contentsline {subsection}{\numberline {4.5.1}Optimizing Time Invariant Error}{64}
+\contentsline {subsection}{\numberline {4.5.2}Summary of Results}{67}
+\contentsline {chapter}{\numberline {5}Discussion and Future Work}{69}
+\contentsline {section}{\numberline {5.1}Comparison to Established Methods}{69}
+\contentsline {section}{\numberline {5.2}Zenith Requirement}{72}
+\contentsline {section}{\numberline {5.3}Time Variation of $H_{o} - H_{c}$}{73}
+\contentsline {section}{\numberline {5.4}Use on Extraterrestrial Surfaces}{74}
+\contentsline {section}{\numberline {5.5}Future Work}{75}
+\contentsline {chapter}{\numberline {6}Conclusions}{77}
+\contentsline {chapter}{Appendices}{83}
+\contentsline {chapter}{\numberline {A}Axis Descriptions}{85}
+\contentsline {chapter}{\numberline {B}Nautical Sight Reduction Script}{87}
+\contentsline {chapter}{\numberline {C}Center Pixel Method Script}{101}
+\contentsline {chapter}{\numberline {D}Cost Function Optimization Script}{111}
